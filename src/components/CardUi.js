@@ -94,7 +94,7 @@ const CardUi = ({ blog, i }) => {
             }
             handleOpen();
           }}>
-            <span>Confirm</span>
+            <span>Confir</span>
           </Button>
         </DialogFooter>
       </Dialog>
